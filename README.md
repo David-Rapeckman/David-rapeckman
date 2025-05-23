@@ -17,10 +17,11 @@ Atualmente, estou explorando uma gama de tecnologias, incluindo **React**, **Typ
 ### 📊 **Minhas Estatísticas no GitHub**
 
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: nowrap;">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=David-rapeckman&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_border=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-rapeckman&theme=tokyonight&langs_count=8&layout=compact&hide_title=true&hide_border=true">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-rapeckman&theme=tokyonight&langs_count=8&layout=compact&hide_title=true&hide_border=true">
 </div>
+
 
 ---
 
