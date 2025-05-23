@@ -19,7 +19,7 @@ Atualmente, estou explorando uma gama de tecnologias, incluindo **React**, **Typ
 
 <div>
   <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=David-rapeckman&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_border=true">
-  <img width="200em" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-rapeckman&theme=tokyonight&langs_count=8&layout=compact&hide_title=true&hide_border=true">
+  <img width="400em" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-rapeckman&theme=tokyonight&langs_count=8&layout=compact&hide_title=true&hide_border=true">
 </div>
 
 ---
