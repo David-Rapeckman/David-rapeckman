@@ -5,8 +5,8 @@
 ##
 
 <div>
-  <img height="270em" src="https://github-readme-stats.vercel.app/api?username=David-rapeckman&theme=tokyonight&show_icons=false">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-rapeckman&theme=tokyonight&langs_count=8"> 
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=David-rapeckman&theme=tokyonight&show_icons=false">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-rapeckman&theme=tokyonight&langs_count=8"> 
 </div>
 
 <p align="center">
